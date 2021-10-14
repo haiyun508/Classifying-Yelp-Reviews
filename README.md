@@ -1,6 +1,5 @@
 ## Classifying Yelp Reviews
 
-### Instructions
 
 1. Read in the file containing Yelp reviews.
 
